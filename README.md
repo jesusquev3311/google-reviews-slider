@@ -1,8 +1,8 @@
 # google-reviews-slider
-Author: Jesus Quevedo
-version: 1.0
-author Website: https://www.fiverr.com/jesusquev3311
-Description: a simple google slider review JS plugin using slick slider and jQuery google reviews plugins
+Author: Jesus Quevedo<br>
+version: 1.0<br>
+author Website: https://www.fiverr.com/jesusquev3311<br>
+Description: a simple google slider review JS plugin using slick slider and jQuery google reviews plugins<br>
 Credits: Slick slider developers team, Jquery-google-reviews's Jason Long 
 
 
