@@ -9,6 +9,9 @@ Credits: Slick slider developers team, Jquery-google-reviews's Jason Long
 # Pre - Requisits 
 <ol>
   <li>jQuery</li>
+  <li>Google Api Key</li>
+  <li>Enable Google Places Api</li>
+  <li>Enable Google Maps Api</li>
   <li>Google Places ID</li>
 </ol>
 
