@@ -19,7 +19,7 @@ Credits: Slick slider developers team, Jquery-google-reviews's Jason Long
 <ol>
   <li>Just Copy de Code in your site</li>
   <li>Get your Place Id at https://developers.google.com/places/place-id</li>
-  <li>Use a text editor to apen the index.html file look for the place-id property on the JS script at the bottom of the file, and paste the id you'll get from the above url.  </li>
+  <li>Use a text editor to open the index.html file, look for the place-id property on the JS script at the bottom of the file, and paste the id you'll get from the above url.  </li>
   <li>Done</li>
 </ol>
 
