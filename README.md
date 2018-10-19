@@ -25,3 +25,5 @@ Credits: Slick slider developers team, Jquery-google-reviews's Jason Long
 
 <b>Note: </b>please check the slick slider documentation at http://kenwheeler.github.io/slick/ for slider options and events.
 Check Jason Long's Jquery-google-reviews at http://peledies.github.io/google-places/ to now more about the jquery-review.plugin
+
+<b>NOTE: </B>Google api just allow you to get 5 reviews from their data
