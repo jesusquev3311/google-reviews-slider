@@ -150,7 +150,7 @@
       }
     </style>
 
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyAlhjJ8EIBNkOdtLKOgs-o6lYaWOnI1Ie0&signed_in=true&libraries=places"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=GOOGLE_API_KEY&signed_in=true&libraries=places"></script>
   </head>
   <body>
     <h1 style="margin-bottom: 40px; text-align: center">Yalla bikes reviews</h1>
@@ -163,7 +163,7 @@
   (function ($) {
     $.googlePlaces = function (element, options) {
       var defaults = {
-        placeId: "ChIJMx5jLIlNHRURS37z_mw6-40", // placeId provided by google api documentation
+        placeId: "GOOGLE_PLACES_ID", // placeId provided by google api documentation
         render: ["reviews"],
         min_rating: 5,
         max_rows: 6,
